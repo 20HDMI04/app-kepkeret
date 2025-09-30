@@ -21,7 +21,7 @@ A modern React application built with TypeScript and Vite for fast development a
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/20HDMI04/app-kepkeret
 cd app-kepkeret
 ```
 
